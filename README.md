@@ -402,6 +402,9 @@ void Error_Handler(void)
  <img width="1241" height="870" alt="Screenshot 2025-09-29 142156" src="https://github.com/user-attachments/assets/6b70bead-83a0-4a77-b8cf-d5edf0e0dbd1" />
 
  <img width="1226" height="862" alt="Screenshot 2025-09-29 142046" src="https://github.com/user-attachments/assets/8e86c3d9-5709-4b7d-a268-19238c3608e1" />
+ 
+ <img width="1083" height="734" alt="image" src="https://github.com/user-attachments/assets/80bcf03e-2daa-45cb-b67d-63c9f469416f" />
+
 
 <img width="1229" height="864" alt="image" src="https://github.com/user-attachments/assets/2c3e45aa-7c54-4fe1-96ca-c027d5368cb5" />
 
